@@ -28,6 +28,11 @@
             text-decoration: underline;
         }
 
+#summary{
+	width: 400px;
+	height: 200px;
+	}
+
         main {
             max-width: 800px;
             margin: 20px auto;
